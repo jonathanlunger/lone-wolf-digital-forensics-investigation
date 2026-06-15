@@ -51,9 +51,6 @@ The examination focused on determining whether:
 - Cross-source evidence correlation
 - Formal forensic reporting
 
-## Report
-
-[View the full investigation report](Lone_Wolf_Digital_Forensics_Investigation.pdf)
 
 ## Content Notice
 
